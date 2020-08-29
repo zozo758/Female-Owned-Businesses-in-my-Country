@@ -1,2 +1,2 @@
 # Female-Owned-Businesses-in-my-Country
-A website foe promoting businesses owned by women.
+A website for promoting businesses owned by women.
