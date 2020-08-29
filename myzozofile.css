@@ -1,0 +1,124 @@
+body{
+   background-color: lightcyan;
+  font-style: oblique;
+  background-image: url("Screenshot_20200824-233445_Google.jpg");
+}
+
+h2{
+  color: LightSeaGreen;
+  font-size: 80px;
+}
+
+p{
+  color: Darkcyan;
+  font-size: 25px
+  background-image: url("galaxy.jpg");
+}
+h3{
+  color: brown;
+  font-size: 60px;
+}
+
+h1{
+  color: orange;
+  font-size: 60px
+}
+
+p{
+  color: Darkcyan;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+.zo{
+  color: lightgreen;
+  font-style: italic;
+  background-color: purple;
+}
+
+.lele{
+  color: orange;
+  font-style: : helvetica;
+  background-color: blue;
+}
+
+.momo{
+  color: Brown;
+  font-style: oblique;
+  background-color: lightgreen;
+}
+.ii{
+  color: violet;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display:flow-root;
+  padding: 16px;
+  background-color: #dddddd;
+  background-color: pink;
+}
+
+.rere{
+ font-style: italic;
+}
+
+.kiki{
+  color:orange;
+  font-style: oblique;
+  background-color: pink;
+}
+
+h4{
+  color: orange;
+  font-size: 60px;
+}
+
+.healthystrands{
+  color: brown;
+  font-size: 30px;
+  background-color: yellow;
+}
+
+.sash{
+  background-color: gold;
+}
+
+.first{
+  color: red;
+  background-color: lightcyan;
+}
+
+.musthv{
+  background-color: lightgreen;
+}
+
+.sea{
+  background-color: yellow;
+}
+
+.knots{
+  background-color: violet;
+}
+
+.nana{
+  background-color: Lightcoral;
+  color: blue;
+}
+
+.porshlife{
+  background-color: Lightcoral;
+}
+
+.head{
+  background-color: red;
+}
